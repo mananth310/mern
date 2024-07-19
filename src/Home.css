@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.GiF9u9CPrT6bTPIDl9heZAAAAA?rs=1&pid=ImgDetMain');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+div h1{
+    margin-left: 350px;
+   font-size: 40px;
+}
+div h1:hover{
+    transform: scale(1.1);
+    color:rgb(233, 251, 38);
+}
+nav ul{
+    text-align: center;
+}
+nav ul button{
+    display: inline;
+    color:white;
+    
+}
+.first
+{
+    margin-left: 120px;
+
+}
+.second{
+    margin-left: 20px;
+}
